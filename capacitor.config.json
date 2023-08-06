@@ -1,0 +1,6 @@
+{
+  "appId": "com.seamless.booking",
+  "appName": "seamless-booking",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
