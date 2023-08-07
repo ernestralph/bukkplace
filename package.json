@@ -1,7 +1,7 @@
 {
   "name": "seamless-booking",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "ralph+earnest",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
@@ -9,7 +9,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "install": "npm install --force"
   },
   "private": true,
   "dependencies": {
