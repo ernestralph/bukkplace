@@ -1,6 +1,6 @@
 {
-  "appId": "com.seamless.booking",
-  "appName": "seamless-booking",
+  "appId": "com.bukkplace",
+  "appName": "bukkplace",
   "bundledWebRuntime": false,
   "webDir": "www"
 }
